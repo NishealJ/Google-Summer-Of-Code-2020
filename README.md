@@ -10,8 +10,7 @@ This project focuses on the publication of various types of journals that CDLI h
 Work completed here: https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=nishealj
 ### Organization :
 
-CDLI - Cuneiform Digital Library Initiative
- *[CDLI - Cuneiform Digital Library Initiative](oppia.org)*
+ *[CDLI - Cuneiform Digital Library Initiative](https://cdli.ucla.edu/)*
 
 ### Mentors : 
 
