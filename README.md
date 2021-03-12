@@ -3,7 +3,7 @@
 ### About GSoC : 
 https://summerofcode.withgoogle.com/
 
-https://summerofcode.withgoogle.com/projects/#5756188689432576
+https://summerofcode.withgoogle.com/archive/2020/projects/5922021642338304/
 
 ### About the Project :
 This project focuses on the publication of various types of journals that CDLI hosts, currently CDLI hosts four journals, two peer-reviewed journals (CDL Journal and CDL Bulletin), the CDL Pre-prints repository and the CDL Notes. For the upload of articles, appropriate designs and workflow need to be developed which includes the development of required routes, controllers, views & tests. The major challenges to this project are the conversion of the editor’s article inputs to CDLI’s article publications which will be carried out by using latex and Maths libraries. Further in the project necessary end-to-end & unit testing phases should be established to improve the development workflow and avoid build issues.
